@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_eyeshadow.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\eyeshadow.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_oil.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\oil.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_item_wishlist_product.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\item_wishlist_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_winterjacket.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\winterjacket.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_activity_edit_address.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\activity_edit_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_flipflop.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\flipflop.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_bannerimg1.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\bannerimg1.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_almonds.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\almonds.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_puzzle.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\puzzle.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_ripple_orange.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\ripple_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_item_banner.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\item_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_bannerimg2.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\bannerimg2.png"
+    },
+    {
+        "merged": "com.shopzy.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.shopzy.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_item_category.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_bg_logo_gradient.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\bg_logo_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_ic_heart_filled.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\ic_heart_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_smartwatch.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\smartwatch.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_ic_heart_outline.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\ic_heart_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_shopzy_splash.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\shopzy_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_rug.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\rug.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_ic_shopping_bag.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\ic_shopping_bag.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_lipstick.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\lipstick.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_jeans.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\jeans.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_smartphonex.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\smartphonex.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_image.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_laptop.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\laptop.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_leatherwatch.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\leatherwatch.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_runningshoes.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\runningshoes.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_faceserum.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\faceserum.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\color_nav_item_color.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\color\\nav_item_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_item_order.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\item_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_beans.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\beans.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_grocery.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\grocery.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_fragment_categories.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\fragment_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_beauty.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\beauty.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_wirelessheadphones.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\wirelessheadphones.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_cottontshirt.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\cottontshirt.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_loafers.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\loafers.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_ic_category.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\ic_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_iphone_se.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\iphone_se.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_organictea.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\organictea.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_honey.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\honey.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_fragment_wishlist.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\fragment_wishlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_iphone12pro.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\iphone12pro.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_perfume.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\perfume.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_bg_category_circle.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\bg_category_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_camera.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_mobileicon.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\mobileicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_ic_deals.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\ic_deals.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_bg_banner.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\bg_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_ic_cart.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\ic_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_bannerimg5.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\bannerimg5.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_moderndesklamp.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\moderndesklamp.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_footwear.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\footwear.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_home_furniture.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\home_furniture.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_galaxys23.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\galaxys23.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_activity_category_products.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\activity_category_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_item_category_home.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\item_category_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_tv.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\tv.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_ic_remove.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\ic_remove.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_scarf.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\scarf.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_electronics.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\electronics.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_activity_checkout.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_bannerimg4.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\bannerimg4.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_shampoo.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\shampoo.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_bg_badge.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\bg_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_wallclock.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\wallclock.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_fashion.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\fashion.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_sofa.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\sofa.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_artkit.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\artkit.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_dinningtable.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\dinningtable.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_casualsneakers.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\casualsneakers.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_leathershoes.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\leathershoes.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_bg_category_chip.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\bg_category_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_item_cart.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_activity_orders.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\activity_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_formalshoes.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\formalshoes.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_lotion.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\lotion.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_bg_splash.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\bg_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_oneplus11.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\oneplus11.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_activity_product_detail.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_ic_loader_ring.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\ic_loader_ring.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_bread.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\bread.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_buildingblockset.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\buildingblockset.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_item_category_grid.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\item_category_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_pixel7.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\pixel7.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_bookshelf.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\bookshelf.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_item_product.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_bg_gradient_premium.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\bg_gradient_premium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_applogo.jpeg.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\applogo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_bg_glow.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\bg_glow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_car.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\car.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_dialog_spin_win.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\dialog_spin_win.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_bluetoothspeaker.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\bluetoothspeaker.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_sandals.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\sandals.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_toys_kids.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\toys_kids.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_bear.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\bear.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_storybooks.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\storybooks.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_applogo.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\applogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-merged_res-33:\\drawable_bannerimg3.png.flat",
+        "source": "C:\\Users\\Tanishk\\.gradle\\daemon\\8.5\\com.shopzy.app-main-35:\\drawable\\bannerimg3.png"
+    }
+]

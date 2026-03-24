@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Shopzy</string>
+    <string name="splash_tagline">Shop Smarter, Shop Shopzy</string>
+    <string name="search_hint">Search products...</string>
+    <string name="featured_products">Featured Products</string>
+    <string name="categories">Categories</string>
+    <string name="deals">Deals</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="remove">Remove</string>
+    <string name="checkout">Checkout</string>
+    <string name="place_order">Place Order</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="total_price">Total: $%.2f</string>
+    <string name="delivery_address_hint">Delivery Address</string>
+    <string name="empty_cart">Your cart is empty.</string>
+    <string name="price_format">$%.2f</string>
+    <string name="proceed_to_checkout">Proceed to Checkout</string>
+    <string name="order_success">Order placed successfully!</string>
+    <string name="thanks_for_shopping">Thanks for shopping with Shopzy.</string>
+    <string name="ok">OK</string>
+</resources>
